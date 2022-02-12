@@ -1,6 +1,7 @@
 # lgm-task-2
 Created with CodeSandbox
-https://lgm-task-2.vercel.app/
+
+Deployed app:- https://lgm-task-2.vercel.app/
 
 Application:-
 
